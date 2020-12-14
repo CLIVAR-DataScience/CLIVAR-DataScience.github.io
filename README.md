@@ -1,5 +1,7 @@
 # US CLIVAR ML Blog
 
+[Link](nbren12.github.io/clivar-blog-boostrapping)
+
 Installation requires:
 
 - [jekyll](https://jekyllrb.com/docs/)
