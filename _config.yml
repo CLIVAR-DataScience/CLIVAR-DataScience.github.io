@@ -22,8 +22,8 @@ title: US CLIVAR Machine Learning Working Group
 email: nbren12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place where blog articles exist
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "nbren12.github.io/clivar-blog-boostrapping" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/clivar-blog-boostrapping" # the subpath of your site, e.g. /blog
+url: "https://nbren12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
