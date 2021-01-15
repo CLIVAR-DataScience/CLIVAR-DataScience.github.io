@@ -1,6 +1,6 @@
 # US CLIVAR ML Blog
 
-[Link to rendered blog](https://nbren12.github.io/clivar-blog-boostrapping)
+[Link to rendered blog](https://clivar-datascience.github.io)
 
 Installation requires:
 
