@@ -1,6 +1,6 @@
 # US CLIVAR ML Blog
 
-[Link to rendered blog](https://clivar-datascience.github.io)
+[Link to rendered blog](https://us-clivar-datascience.github.io)
 
 Installation requires:
 
