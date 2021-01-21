@@ -14,6 +14,13 @@ New posts go into the `_pages` folder as markdown files. See [this example](_pos
 ## Disqus
 
 This blog uses the minima theme which supports a SaaS commenting service
-called [Disqus](https://disqus.com/).
+called [Disqus](https://disqus.com/). This has to be enabled for every post by adding `comments: true` to its markdown header like this:
+```
+---
+
+# other settings...
+comments: true
+---
+
 
 - Management Link: https://us-clivar-datascience.disqus.com. The administrative username is clivar.datascience@gmail.com.
